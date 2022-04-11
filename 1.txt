@@ -3,4 +3,7 @@ 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
 
 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
 
+git add .
+git commit -m "1.txt"
+git push
 
